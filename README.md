@@ -1,52 +1,18 @@
-# 100 days 100 algorithms
+### Basic data structure and algorithm
 
-### DAY 1
-Linear search
-
-### DAY 2
-Binary search
-
-### DAY 3
-Hashing search
-
-### DAY 4
-Sentinel Linear Search
-
-### DAY 5
-Teranry Search
-
-### DAY 6
-Jump Search
-
-### DAY 7
-Interpolation Search
-
-### DAY 8
-Exponential Search
-
-### DAY 9
-Fibonacci Search
-
-### DAY 10
-Selection Sort
-
-### DAY 11
-Bubble Sort
-
-### DAY 12
-Merge Sort
-
-### DAY 13
-Quick Sort
-
-### DAY 14
-Heap Sort
-
-### DAY 15
-Heap Sort
-
-### DAY 16
-Counting Sort
-
-### DAY 17
-Radix Sort
+- Linear search
+- Binary search
+- Hashing search
+- Sentinel Linear Search
+- Teranry Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
+- Fibonacci Search
+- Selection Sort
+- Bubble Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Counting Sort
+- Radix Sort
